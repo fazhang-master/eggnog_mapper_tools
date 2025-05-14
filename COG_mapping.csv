@@ -1,0 +1,25 @@
+COG_code,Function,Category
+A,RNA processing and modification,INFORMATION
+C,Energy production and conversion,METABOLISM
+D,"Cell cycle control, cell division, chromosome partitioning",CELLULAR
+E,Amino acid transport and metabolism,METABOLISM
+F,Nucleotide transport and metabolism,METABOLISM
+G,Carbohydrate transport and metabolism,METABOLISM
+H,Coenzyme transport and metabolism,METABOLISM
+I,Lipid transport and metabolism,METABOLISM
+J,"Translation, ribosomal structure and biogenesis",INFORMATION
+K,Transcription,INFORMATION
+L,"Replication, recombination and repair",INFORMATION
+M,Cell wall/membrane/envelope biogenesis,CELLULAR
+N,Cell motility,CELLULAR
+O,"Posttranslational modification, protein turnover, chaperones",CELLULAR
+P,Inorganic ion transport and metabolism,METABOLISM
+Q,"Secondary metabolites biosynthesis, transport and catabolism",METABOLISM
+R,General function prediction only,POORLY
+S,Function unknown,POORLY
+T,Signal transduction mechanisms,CELLULAR
+U,"Intracellular trafficking, secretion, and vesicular transport",CELLULAR
+V,Defense mechanisms,CELLULAR
+W,Extracellular structures,CELLULAR
+X,"Mobilome: prophages, transposons",METABOLISM
+Z,Cytoskeleton,CELLULAR
