@@ -1,4 +1,4 @@
-# eggnog-mapper注释文件转换工具
+# extract_COG_local_v2.1.3.sh使用文档
 
 ## 功能描述
 将eggnog-mapper生成的`.annotations`文件转换为标准CSV格式，保留原始列结构
