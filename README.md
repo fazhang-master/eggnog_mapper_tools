@@ -82,6 +82,9 @@ A：检查输出CSV的列名是否包含以下字段：
 ```bash
 wget https://example.com/path/to/extract_COG_local_v2.1.sh
 chmod +x extract_COG_local_v2.1.sh
+
+# 下载映射文件
+https://github.com/fazhang-master/eggnog_mapper_tools/blob/main/COG_mapping.csv
 ```
 
 ### 2. 基本使用
